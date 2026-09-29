@@ -100,7 +100,7 @@
 }
 
 .btn-submit {
-  background: var(--primary);
+  background: #2563eb;
   color: white;
   border: none;
   padding: 9px 20px;
@@ -113,5 +113,5 @@
 }
 
 .btn-submit:hover {
-  background-color: var(--primary-hover);
+  background-color: #1d4ed8;
 }
